@@ -1,5 +1,5 @@
 # microservice 
-* 用 Rust 实现的一个 web 小应用，练习使用 Rust
+* 用 Rust 实现的一个 web 小应用，练习使用 Rust。参考[这篇博文](https://juejin.im/post/5c7a3777f265da2dd773fc38)
 
 ## dev
 * `./run.sh`
